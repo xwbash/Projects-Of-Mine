@@ -1,4 +1,4 @@
 # Projects-Of-Mine
 My projects and code bases.
 
-Of course there is so, so, so much code but i can't share whole because of the copyrights the company that i worked with.
+Some of my codes, some of them old like the minigames etc. I have written so much code but i couldn't share all of them because that would be chaos so some of them inside.
